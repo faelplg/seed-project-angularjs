@@ -10,7 +10,7 @@ release                      | branch                  | version | updated at
 * Gulp
 * AngularJS
 
-Scaffold by _FountainJS_ ([visit page](http://fountainjs.io)).
+Scaffold by ([FountainJS](http://fountainjs.io)).
 
 ## Installing
 
@@ -27,11 +27,11 @@ npm install
 
 Available commands:
 
-* ``gulp`` or ``gulp build`` for optimized production-ready application in ``/dist`` folder.
-* ``gulp serve`` to serve the application in ``localhost``.
-* ``gulp serve:dist`` to serve the optimized application in ``localhost``.
-* ``gulp test`` for unit tests with _Karma_.
-* ``gulp test:auto`` for unit tests with _Karma_ in `watch` mode.
+* ``gulp`` or ``gulp build`` to build an optimized production-ready application placed in ``/dist`` folder.
+* ``gulp serve`` to launch a browser sync server in ``localhost``.
+* ``gulp serve:dist`` to launch a server on the optimized application in ``localhost``.
+* ``gulp test`` to launch the unit tests with _Karma_.
+* ``gulp test:auto`` to launch the unit tests with _Karma_ in `watch` mode.
 
 ## Author
 
