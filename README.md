@@ -41,5 +41,5 @@ Available commands:
 
 ## CHANGELOG
 
-* **(26/12)** - Removed deprecated ``webpack-fail-plugin``
-* **(27/12)** - Removed deprecated ``gulp-util`` and added ``fancy-log`` + ``ansi-colors``
+* **(26/12/2017)** - [v.0.0.1] Removed deprecated ``webpack-fail-plugin``
+* **(27/12/2017)** - [v.0.0.1] Removed deprecated ``gulp-util`` and added ``fancy-log`` + ``ansi-colors``
