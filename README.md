@@ -1,8 +1,6 @@
 release                      | branch                  | version | updated at
 -----------------------------|-------------------------|---------|-------------
-**Seed Project**             | master                  | 0.0.2   | 26/12/2017
-
-Adapted from _FountainJS_ scaffold ([visit page](fountainsjs.io)).
+**Seed Project**             | master                  | 0.0.2   | 27/12/2017
 
 ## Technologies
 
@@ -11,6 +9,8 @@ Adapted from _FountainJS_ scaffold ([visit page](fountainsjs.io)).
 * Babel
 * Gulp
 * AngularJs
+
+Scaffold by _FountainJS_ ([visit page](fountainsjs.io)).
 
 ## Installing
 
@@ -39,7 +39,7 @@ Available commands:
 	* Email: [faelplg@gmail.com](mailto:faelplg@gmail.com)
 	* LinkedIn: https://linkedin.com/in/faelplg
 
-## CHANGELOG
+## Changelog
 
 * **(26/12/2017)** - [v.0.0.1] Removed deprecated ``webpack-fail-plugin``
-* **(27/12/2017)** - [v.0.0.1] Removed deprecated ``gulp-util`` and added ``fancy-log`` + ``ansi-colors``
+* **(27/12/2017)** - [v.0.0.1] Replaced deprecated ``gulp-util`` by ``fancy-log`` + ``ansi-colors``
