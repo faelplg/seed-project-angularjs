@@ -9,7 +9,8 @@
  */
 
 const path = require('path');
-const gutil = require('gulp-util');
+const log = require('fancy-log');
+const colors = require('ansi-colors');
 
 exports.ngModule = 'app';
 
@@ -48,7 +49,7 @@ for (const pathName in exports.paths) {
  */
 exports.errorHandler = function (title) {
   return function (err) {
-    gutil.log(gutil.colors.red(`[${title}]`), err.toString());
+    log(colors.bgred(`[${title}]`), err.toString());
     this.emit('end');
   };
 };
