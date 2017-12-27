@@ -14,11 +14,11 @@ Adapted from _FountainJS_ scaffold ([visit page](fountainsjs.io)).
 
 ## Installing
 
-Clone this respository to your computer.
+Clone this respository into your computer.
 
-Access the ``/seed-project-angularjs`` folder.
+Access the ``/seed-project-angularjs`` cloned folder.
 
-Run:
+Install the dependencies:
 ```
 npm install
 ```
@@ -28,17 +28,17 @@ npm install
 Available commands:
 
 * ``gulp`` or ``gulp build`` for optimized production-ready application in ``/dist`` folder.
-* ``gulp serve`` to serve the appication in ``localhost``.
-* ``gulp serve:dist`` to serve the optimized application in localhost.
+* ``gulp serve`` to serve the application in ``localhost``.
+* ``gulp serve:dist`` to serve the optimized application in ``localhost``.
 * ``gulp test`` for unit tests with _Karma_.
 * ``gulp test:auto`` for unit tests with _Karma_ in `watch` mode.
 
 ## Author
 
 * **Rafael Goulart**
-	* E-mail: [faelplg@gmail.com](mailto:faelplg@gmail.com)
+	* Email: [faelplg@gmail.com](mailto:faelplg@gmail.com)
 	* LinkedIn: https://linkedin.com/in/faelplg
 
-# CHANGELOG
+## CHANGELOG
 
 * **(26/12)** - Removed webpack-fail-plugin
