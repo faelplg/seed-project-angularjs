@@ -4,11 +4,11 @@ release                      | branch                  | version | updated at
 
 ## Technologies
 
-* NodeJs
-* Webpack
+* Node.js
+* webpack
 * Babel
 * Gulp
-* AngularJs
+* AngularJS
 
 Scaffold by _FountainJS_ ([visit page](fountainsjs.io)).
 
