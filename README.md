@@ -10,7 +10,7 @@ release                      | branch                  | version | updated at
 * Gulp
 * AngularJS
 
-Scaffold by _FountainJS_ ([visit page](http://fountainsjs.io)).
+Scaffold by _FountainJS_ ([visit page](http://fountainjs.io)).
 
 ## Installing
 
