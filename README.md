@@ -42,4 +42,5 @@ Available commands:
 ## Changelog
 
 * **(26/12/2017)** - [v.0.0.1] Removed deprecated ``webpack-fail-plugin``
-* **(27/12/2017)** - [v.0.0.1] Replaced deprecated ``gulp-util`` by ``fancy-log`` + ``ansi-colors``
+* **(27/12/2017)** - [v.0.0.1] Replaced deprecated ``gulp-util`` (still running on ``gulp-hub`` dependencies) by ``fancy-log`` + ``ansi-colors``
+* **(27/12/2017)** - [v.0.0.2] Replaced ``babel-preset-es2015`` by ``babel-preset-env``
