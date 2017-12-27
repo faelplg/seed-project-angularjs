@@ -1,6 +1,6 @@
 release                      | branch                  | version | updated at
 -----------------------------|-------------------------|---------|-------------
-**Seed project**             | master                  | 0.0.1   | 26/12/2017
+**Seed Project**             | master                  | 0.0.1   | 26/12/2017
 
 Adapted from _FountainJS_ scaffold ([visit page](fountainsjs.io)).
 
