@@ -6,8 +6,15 @@ function routesConfig($stateProvider, $urlRouterProvider, $locationProvider) {
   $urlRouterProvider.otherwise('/');
 
   $stateProvider
+
     .state('app', {
       url: '/',
-      component: 'app'
+      // component: 'appContainer',
+      component: 'typographyComponent'
+      // abstract: true
     });
+    // .state('app.typography', {
+    //   url: '/typography',
+    //   component: 'typographyComponent'
+    // });
 }
