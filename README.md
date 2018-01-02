@@ -1,6 +1,6 @@
 release                      | branch                  | version | updated at
 -----------------------------|-------------------------|---------|-------------
-**Seed Project**             | master                  | 0.0.2   | 27/12/2017
+**Seed Project**             | master                  | 0.0.3   | 02/01/2018
 
 ## Technologies
 
@@ -9,6 +9,7 @@ release                      | branch                  | version | updated at
 * Babel
 * Gulp
 * AngularJS
+* LESS
 
 Scaffold by ([FountainJS](http://fountainjs.io)).
 
@@ -36,7 +37,6 @@ Available commands:
 ## Author
 
 * **Rafael Goulart**
-	* Email: [faelplg@gmail.com](mailto:faelplg@gmail.com)
 	* LinkedIn: https://linkedin.com/in/faelplg
 
 ## Changelog
@@ -44,3 +44,5 @@ Available commands:
 * **(26/12/2017)** - [v.0.0.1] Removed deprecated ``webpack-fail-plugin``
 * **(27/12/2017)** - [v.0.0.1] Replaced deprecated ``gulp-util`` (still running on ``gulp-hub`` dependencies) by ``fancy-log`` + ``ansi-colors``
 * **(27/12/2017)** - [v.0.0.2] Replaced ``babel-preset-es2015`` by ``babel-preset-env``
+* **(02/01/2018)** - [v.0.0.3] Created components and containers packages.
+* **(02/01/2018)** - [v.0.0.3] Added typography component.

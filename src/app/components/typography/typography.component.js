@@ -1,5 +1,5 @@
 function TypographyController($log) {
-  $log.log('Seed Project - AngularJS | TypographyComponentController');
+  $log.log('TypographyController');
 }
 TypographyController.$inject = ['$log'];
 
