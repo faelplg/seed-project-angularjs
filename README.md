@@ -2,18 +2,16 @@ release                      | branch                  | version | updated at
 -----------------------------|-------------------------|---------|-------------
 **Seed Project**             | master                  | 0.0.3   | 02/01/2018
 
-Production-ready seed project written in AngularJS easy to understand and to install.
-
-Regularly updated.
+Production-ready seed project written in AngularJS easy to install and to build.
 
 ## Technologies
 
-* Node.js
-* webpack
-* Babel
-* Gulp
-* AngularJS
-* LESS
+* [Node.js](https://nodejs.org/)
+* [webpack](https://webpack.js.org/)
+* [Babel](https://babeljs.io/)
+* [Gulp](https://gulpjs.com/)
+* [AngularJS](https://angularjs.org/)
+* [LESS (CSS Grid + Flexible Box Layout)](lesscss.org/)
 
 Scaffold by ([FountainJS](http://fountainjs.io)).
 
@@ -50,3 +48,9 @@ Available commands:
 * **(27/12/2017)** - [v.0.0.2] Replaced ``babel-preset-es2015`` by ``babel-preset-env``
 * **(02/01/2018)** - [v.0.0.3] Created components and containers packages.
 * **(02/01/2018)** - [v.0.0.3] Added typography component.
+* **(03/01/2018)** - [v.0.0.4] Added CSS Grid + Flexible Box Layout.
+* **(03/01/2018)** - [v.0.1.0] Base structure complete.
+
+## What to do next
+* Create module folder for API services.
+* Resolve API results in app.routes.

@@ -2,7 +2,7 @@ import angular from 'angular';
 
 /* App routing */
 import 'angular-ui-router';
-import routesConfig from './app.routes';
+import routesConfig from './app/app.routes';
 
 /* Style */
 import './index.less';
