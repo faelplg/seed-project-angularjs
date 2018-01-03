@@ -53,4 +53,5 @@ Available commands:
 
 ## What to do next
 * Create module folder for API services.
-* Resolve API results in app.routes.
+* Resolve API results in routes states.
+* Menu links to states.
