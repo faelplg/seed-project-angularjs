@@ -1,6 +1,6 @@
 release                      | branch                  | version | updated at
 -----------------------------|-------------------------|---------|-------------
-**Seed Project**             | master                  | 0.1.0   | 02/01/2018
+**Seed Project**             | master                  | 0.1.0   | 03/01/2018
 
 Production-ready seed project written in AngularJS easy to install and to build.
 
