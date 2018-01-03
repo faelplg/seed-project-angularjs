@@ -2,11 +2,12 @@ release                      | branch                  | version | updated at
 -----------------------------|-------------------------|---------|-------------
 **Seed Project**             | master                  | 0.1.0   | 03/01/2018
 
-Production-ready seed project written in AngularJS easy to install and to build.
+Seed project written in AngularJS ^1.6 and ES6 to create large projects with a production build system.
 
 ## Technologies
 
 * [Node.js](https://nodejs.org/)
+* [ES6]()
 * [webpack](https://webpack.js.org/)
 * [Babel](https://babeljs.io/)
 * [Gulp](https://gulpjs.com/)
@@ -33,8 +34,6 @@ Available commands:
 * ``gulp`` or ``gulp build`` to build an optimized production-ready application placed in ``/dist`` folder.
 * ``gulp serve`` to launch a browser sync server in ``localhost``.
 * ``gulp serve:dist`` to launch a server on the optimized application in ``localhost``.
-* ``gulp test`` to launch the unit tests with _Karma_.
-* ``gulp test:auto`` to launch the unit tests with _Karma_ in `watch` mode.
 
 ## Author
 
@@ -52,6 +51,7 @@ Available commands:
 * **(03/01/2018)** - [v.0.1.0] Base structure complete.
 
 ## What to do next
+* Create tests with Karma.js.
 * Create module folder for API services.
 * Resolve API results in routes states.
 * Menu links to states.
