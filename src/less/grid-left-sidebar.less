@@ -1,0 +1,41 @@
+/*
+ *
+ *   grid style
+ *   left sidebar template
+ *
+*/
+
+.left-sidebar-container {
+  height: 100%;
+  display: grid;
+  grid-gap: 3px;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: 64px auto;
+}
+
+.left-sidebar-container > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// navbar
+.left-sidebar-navbar {
+  background-color: @blue;
+  grid-column-start: 1;
+  grid-column-end: -1;
+  font-size: 2em;
+}
+
+// sidebar
+.left-sidebar-menu {
+  background-color: @orange;
+  grid-column: 1 / span 2;
+  font-size: 2em;
+}
+
+// content
+.left-sidebar-content {
+  grid-column-start: 3;
+  grid-column-end: -1;
+}
