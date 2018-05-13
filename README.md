@@ -1,8 +1,11 @@
 release                      | branch                  | version | updated at
 -----------------------------|-------------------------|---------|-------------
-**Seed Project**             | master                  | 0.1.0   | 03/01/2018
+**Seed Project**             | master                  | 0.1.0   | 13/05/2018
 
 Seed project written in AngularJS ^1.6 and ES6 to create large projects with a production build system.
+
+# Important
+This project is on its conception. Soon it will be part of another bigger one. Stay tuned.
 
 ## Technologies
 
@@ -42,13 +45,19 @@ Available commands:
 
 ## Changelog
 
-* **(26/12/2017)** - [v.0.0.1] Removed deprecated ``webpack-fail-plugin``
-* **(27/12/2017)** - [v.0.0.1] Replaced deprecated ``gulp-util`` (still running on ``gulp-hub`` dependencies) by ``fancy-log`` + ``ansi-colors``
-* **(27/12/2017)** - [v.0.0.2] Replaced ``babel-preset-es2015`` by ``babel-preset-env``
-* **(02/01/2018)** - [v.0.0.3] Created components and containers packages.
-* **(02/01/2018)** - [v.0.0.3] Added typography component.
-* **(03/01/2018)** - [v.0.0.4] Added CSS Grid + Flexible Box Layout.
+* **(13/05/2018)** - [v.0.1.0] Updated README.md.
 * **(03/01/2018)** - [v.0.1.0] Base structure complete.
+* **(03/01/2018)** - [v.0.0.4] Added CSS Grid + Flexible Box Layout.
+* **(02/01/2018)** - [v.0.0.3] Added typography component.
+* **(02/01/2018)** - [v.0.0.3] Created components and containers packages.
+* **(27/12/2017)** - [v.0.0.2] Replaced ``babel-preset-es2015`` by ``babel-preset-env``
+* **(27/12/2017)** - [v.0.0.1] Replaced deprecated ``gulp-util`` (still running on ``gulp-hub`` dependencies) by ``fancy-log`` + ``ansi-colors``
+* **(26/12/2017)** - [v.0.0.1] Removed deprecated ``webpack-fail-plugin``
+
+
+
+
+
 
 ## What to do next
 * Create tests with Karma.js.
